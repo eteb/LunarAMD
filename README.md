@@ -38,4 +38,4 @@ Hotkeys:
 - No anti-cheat guarantees
 - Original credits to xxreflextheone
 
-Create a new issue at [https://github.com/eteb/LunarAMD/issues](https://github.com/eteb/Lunar-AMD/issues) for any problems.
+Create a new issue at [issues](https://github.com/eteb/LunarAMD/issues) for any problems.
